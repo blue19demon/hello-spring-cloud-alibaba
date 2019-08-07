@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: hello-spring-cloud-alibaba-nacos-consumer
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: com.funtl
+Build-Jdk: 1.8.0_77
+Implementation-URL: http://www.funtl.com
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,6 @@
+projectKey=funtl:com
+serverUrl=http://localhost:9003
+serverVersion=7.4.0.18908
+dashboardUrl=http://localhost:9003/dashboard?id=funtl%3Acom
+ceTaskId=AWxqpDTfEITfc9CaQbve
+ceTaskUrl=http://localhost:9003/api/ce/task?id=AWxqpDTfEITfc9CaQbve
